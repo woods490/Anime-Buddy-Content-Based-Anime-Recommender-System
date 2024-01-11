@@ -1,0 +1,10 @@
+[data-testid="stAppViewContainer"] > .main {
+    background-image: url("https://i.pinimg.com/originals/87/5f/d8/875fd821d2837ab8356c680be0025431.gif");
+    background-size: 100vw 100vh;
+    background-position: center;  
+    background-repeat: no-repeat;
+}
+
+[data-testid="stVerticalBlockBorderWrapper"] {
+    backdrop-filter: blur(4px);
+}
